@@ -1,6 +1,6 @@
 {
   "name": "@alexvyber/convert-case",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "convert camelCase to kebab-case",
   "keywords": [
     "convert",
