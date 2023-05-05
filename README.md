@@ -19,7 +19,7 @@ yarn add @alexvyber/convert-case
 ## Example
 
 ```ts
-import { camelToKebab } from "@alexvyber/convert-case"
+import { camelToKebab, kebabToCamel } from "@alexvyber/convert-case"
 
 console.log(camelToKebab("SomeString")) // => some-string
 console.log(camelToKebab("otherString")) // => other-string
